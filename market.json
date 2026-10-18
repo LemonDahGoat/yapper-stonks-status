@@ -1,15 +1,45 @@
 {
   "online": true,
   "bot": "YapperStonks",
-  "updated_at": "2026-10-18T15:02:54.815Z",
-  "timestamp": 1792335774815,
+  "updated_at": "2026-10-18T15:03:24.817Z",
+  "timestamp": 1792335804817,
   "stats": {
     "total_stocks": 266,
-    "total_volume": 807.44,
-    "total_trades": 5,
+    "total_volume": 908.41,
+    "total_trades": 6,
     "total_users": 3,
-    "market_cap": 619.92,
+    "market_cap": 722.91,
     "top_gainers": [
+      {
+        "name": "✨ Mystic ✨",
+        "price": 102.99,
+        "prev_price": 99.96,
+        "change_pct": 3.03,
+        "volume": 1,
+        "total_shares": 1,
+        "history": [
+          {
+            "price": 100,
+            "time": 1792335566518
+          },
+          {
+            "price": 100.49,
+            "time": 1792335566531
+          },
+          {
+            "price": 99.33,
+            "time": 1792335626568
+          },
+          {
+            "price": 99.96,
+            "time": 1792335686228
+          },
+          {
+            "price": 100.97,
+            "time": 1792335747156
+          }
+        ]
+      },
       {
         "name": "Reissad Studio's",
         "price": 100.51,
@@ -430,112 +460,6 @@
           },
           {
             "price": 109.08,
-            "time": 1792335747156
-          }
-        ]
-      },
-      {
-        "name": "GalacyJaJ",
-        "price": 95.11,
-        "prev_price": 94.02,
-        "change_pct": 1.16,
-        "volume": 0,
-        "total_shares": 0,
-        "history": [
-          {
-            "price": 100,
-            "time": 1792291459931
-          },
-          {
-            "price": 100.74,
-            "time": 1792291461100
-          },
-          {
-            "price": 103.22,
-            "time": 1792291780038
-          },
-          {
-            "price": 102.02,
-            "time": 1792293070008
-          },
-          {
-            "price": 99.57,
-            "time": 1792325488264
-          },
-          {
-            "price": 99.11,
-            "time": 1792333326320
-          },
-          {
-            "price": 96.65,
-            "time": 1792333749362
-          },
-          {
-            "price": 93.8,
-            "time": 1792334049539
-          },
-          {
-            "price": 93.45,
-            "time": 1792334349384
-          },
-          {
-            "price": 93.82,
-            "time": 1792334649440
-          },
-          {
-            "price": 93.97,
-            "time": 1792334966427
-          },
-          {
-            "price": 93.12,
-            "time": 1792335026490
-          },
-          {
-            "price": 93.86,
-            "time": 1792335086373
-          },
-          {
-            "price": 92.91,
-            "time": 1792335146616
-          },
-          {
-            "price": 93.12,
-            "time": 1792335206645
-          },
-          {
-            "price": 93.34,
-            "time": 1792335266420
-          },
-          {
-            "price": 93.8,
-            "time": 1792335343864
-          },
-          {
-            "price": 93.55,
-            "time": 1792335386526
-          },
-          {
-            "price": 92.68,
-            "time": 1792335446632
-          },
-          {
-            "price": 93.39,
-            "time": 1792335506657
-          },
-          {
-            "price": 92.72,
-            "time": 1792335566531
-          },
-          {
-            "price": 93.75,
-            "time": 1792335626568
-          },
-          {
-            "price": 94.02,
-            "time": 1792335686228
-          },
-          {
-            "price": 95.11,
             "time": 1792335747156
           }
         ]
@@ -1073,7 +997,7 @@
         ]
       }
     ],
-    "last_updated": "2026-10-18T15:02:54.815Z"
+    "last_updated": "2026-10-18T15:03:24.817Z"
   },
   "stocks": [
     {
@@ -9207,6 +9131,36 @@
       ]
     },
     {
+      "name": "✨ Mystic ✨",
+      "price": 102.99,
+      "prev_price": 99.96,
+      "change_pct": 3.03,
+      "volume": 1,
+      "total_shares": 1,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792335566518
+        },
+        {
+          "price": 100.49,
+          "time": 1792335566531
+        },
+        {
+          "price": 99.33,
+          "time": 1792335626568
+        },
+        {
+          "price": 99.96,
+          "time": 1792335686228
+        },
+        {
+          "price": 100.97,
+          "time": 1792335747156
+        }
+      ]
+    },
+    {
       "name": "FunnyKats",
       "price": 102.96,
       "prev_price": 103.05,
@@ -13338,36 +13292,6 @@
         },
         {
           "price": 100.99,
-          "time": 1792335747156
-        }
-      ]
-    },
-    {
-      "name": "✨ Mystic ✨",
-      "price": 100.97,
-      "prev_price": 99.96,
-      "change_pct": 1.01,
-      "volume": 0,
-      "total_shares": 0,
-      "history": [
-        {
-          "price": 100,
-          "time": 1792335566518
-        },
-        {
-          "price": 100.49,
-          "time": 1792335566531
-        },
-        {
-          "price": 99.33,
-          "time": 1792335626568
-        },
-        {
-          "price": 99.96,
-          "time": 1792335686228
-        },
-        {
-          "price": 100.97,
           "time": 1792335747156
         }
       ]
@@ -28768,6 +28692,15 @@
   "transactions": [
     {
       "type": "buy",
+      "username": "honoredone",
+      "stock": "honoredone",
+      "shares": 1,
+      "price": 100.97,
+      "total": 100.97,
+      "time": 1792335789958
+    },
+    {
+      "type": "buy",
       "username": "lemon",
       "stock": "wealth",
       "shares": 3,
@@ -28823,9 +28756,9 @@
     {
       "rank": 2,
       "username": "honoredone",
-      "balance": 10500,
-      "portfolio_value": 0,
-      "total_value": 10500
+      "balance": 10399.03,
+      "portfolio_value": 102.99,
+      "total_value": 10502.02
     },
     {
       "rank": 3,
