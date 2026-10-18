@@ -1,14 +1,14 @@
 {
   "online": true,
   "bot": "YapperStonks",
-  "updated_at": "2026-10-18T15:08:55.531Z",
-  "timestamp": 1792336135531,
+  "updated_at": "2026-10-18T15:09:25.538Z",
+  "timestamp": 1792336165538,
   "stats": {
     "total_stocks": 266,
-    "total_volume": 8775.95,
-    "total_trades": 10,
+    "total_volume": 9019.1,
+    "total_trades": 11,
     "total_users": 3,
-    "market_cap": 14883.22,
+    "market_cap": 14446.62,
     "top_gainers": [
       {
         "name": "JohnShedletsky",
@@ -1313,16 +1313,16 @@
         ]
       }
     ],
-    "last_updated": "2026-10-18T15:08:55.531Z"
+    "last_updated": "2026-10-18T15:09:25.540Z"
   },
   "stocks": [
     {
       "name": "✨ Mystic ✨",
-      "price": 243.15,
+      "price": 239.5,
       "prev_price": 240.56,
-      "change_pct": 1.08,
-      "volume": 54,
-      "total_shares": 54,
+      "change_pct": -0.44,
+      "volume": 55,
+      "total_shares": 53,
       "history": [
         {
           "price": 100,
@@ -35391,6 +35391,15 @@
   ],
   "transactions": [
     {
+      "type": "sell",
+      "username": "lemon",
+      "stock": "honoredone",
+      "shares": 1,
+      "price": 243.15,
+      "total": 243.15,
+      "time": 1792336151815
+    },
+    {
       "type": "buy",
       "username": "honoredone",
       "stock": "honoredone",
@@ -35486,15 +35495,15 @@
       "rank": 1,
       "username": "honoredone",
       "balance": 2938.81,
-      "portfolio_value": 13295.9,
-      "total_value": 16234.71
+      "portfolio_value": 13113.4,
+      "total_value": 16052.21
     },
     {
       "rank": 2,
       "username": "lemon",
-      "balance": 9508.12,
-      "portfolio_value": 1587.32,
-      "total_value": 11095.44
+      "balance": 9751.27,
+      "portfolio_value": 1333.22,
+      "total_value": 11084.49
     },
     {
       "rank": 3,
