@@ -1,10 +1,10 @@
 {
   "online": true,
   "bot": "YapperStonks",
-  "updated_at": "2026-10-18T14:42:28.980Z",
-  "timestamp": 1792334548980,
+  "updated_at": "2026-10-18T14:43:07.707Z",
+  "timestamp": 1792334587707,
   "stats": {
-    "total_stocks": 262,
+    "total_stocks": 261,
     "total_volume": 220.14,
     "total_trades": 2,
     "total_users": 1,
@@ -473,7 +473,7 @@
         ]
       }
     ],
-    "last_updated": "2026-10-18T14:42:28.980Z"
+    "last_updated": "2026-10-18T14:43:07.707Z"
   },
   "stocks": [
     {
@@ -6453,20 +6453,6 @@
         {
           "price": 100.05,
           "time": 1792334349384
-        }
-      ]
-    },
-    {
-      "name": "BarryBee",
-      "price": 100,
-      "prev_price": 100,
-      "change_pct": 0,
-      "volume": 0,
-      "total_shares": 0,
-      "history": [
-        {
-          "price": 100,
-          "time": 1792334489859
         }
       ]
     },
