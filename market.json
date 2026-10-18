@@ -1,22 +1,22 @@
 {
   "online": true,
   "bot": "YapperStonks",
-  "updated_at": "2026-10-18T15:00:54.812Z",
-  "timestamp": 1792335654812,
+  "updated_at": "2026-10-18T15:01:24.814Z",
+  "timestamp": 1792335684814,
   "stats": {
     "total_stocks": 266,
-    "total_volume": 452.72,
-    "total_trades": 4,
+    "total_volume": 807.44,
+    "total_trades": 5,
     "total_users": 3,
-    "market_cap": 235.73,
+    "market_cap": 618.81,
     "top_gainers": [
       {
         "name": "Wealth",
-        "price": 118.24,
+        "price": 125.33,
         "prev_price": 115.74,
-        "change_pct": 2.16,
-        "volume": 1,
-        "total_shares": 1,
+        "change_pct": 8.29,
+        "volume": 4,
+        "total_shares": 4,
         "history": [
           {
             "price": 100,
@@ -993,16 +993,16 @@
         ]
       }
     ],
-    "last_updated": "2026-10-18T15:00:54.813Z"
+    "last_updated": "2026-10-18T15:01:24.816Z"
   },
   "stocks": [
     {
       "name": "Wealth",
-      "price": 118.24,
+      "price": 125.33,
       "prev_price": 115.74,
-      "change_pct": 2.16,
-      "volume": 1,
-      "total_shares": 1,
+      "change_pct": 8.29,
+      "volume": 4,
+      "total_shares": 4,
       "history": [
         {
           "price": 100,
@@ -26562,6 +26562,15 @@
       "type": "buy",
       "username": "lemon",
       "stock": "wealth",
+      "shares": 3,
+      "price": 118.24,
+      "total": 354.72,
+      "time": 1792335676474
+    },
+    {
+      "type": "buy",
+      "username": "lemon",
+      "stock": "wealth",
       "shares": 1,
       "price": 115.92,
       "total": 115.92,
@@ -26599,9 +26608,9 @@
     {
       "rank": 1,
       "username": "lemon",
-      "balance": 10270.16,
-      "portfolio_value": 235.73,
-      "total_value": 10505.89
+      "balance": 9915.44,
+      "portfolio_value": 618.81,
+      "total_value": 10534.25
     },
     {
       "rank": 2,
