@@ -1,13 +1,13 @@
 {
   "online": true,
   "bot": "YapperStonks",
-  "updated_at": "2026-10-18T16:14:16.721Z",
-  "timestamp": 1792340056721,
+  "updated_at": "2026-10-18T16:14:46.726Z",
+  "timestamp": 1792340086726,
   "stats": {
     "total_stocks": 271,
     "total_volume": 910027.33,
     "total_trades": 51,
-    "total_users": 4,
+    "total_users": 5,
     "market_cap": 262.58,
     "top_gainers": [
       {
@@ -2033,7 +2033,7 @@
         ]
       }
     ],
-    "last_updated": "2026-10-18T16:14:16.723Z"
+    "last_updated": "2026-10-18T16:14:46.726Z"
   },
   "stocks": [
     {
@@ -56967,6 +56967,13 @@
     },
     {
       "rank": 4,
+      "username": "dyns",
+      "balance": 10500,
+      "portfolio_value": 0,
+      "total_value": 10500
+    },
+    {
+      "rank": 5,
       "username": "rokunana",
       "balance": 452.53,
       "portfolio_value": 68,
