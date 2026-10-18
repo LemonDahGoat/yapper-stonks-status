@@ -1,0 +1,19 @@
+{
+  "online": false,
+  "bot": "YapperStonks",
+  "updated_at": "2026-10-17T00:00:00Z",
+  "timestamp": 0,
+  "stats": {
+    "total_stocks": 0,
+    "total_volume": 0,
+    "total_trades": 0,
+    "total_users": 0,
+    "market_cap": 0,
+    "top_gainers": [],
+    "top_losers": [],
+    "last_updated": "2026-10-17T00:00:00Z"
+  },
+  "stocks": [],
+  "transactions": [],
+  "leaderboard": []
+}
