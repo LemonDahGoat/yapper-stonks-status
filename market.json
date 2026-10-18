@@ -1,22 +1,22 @@
 {
   "online": true,
   "bot": "YapperStonks",
-  "updated_at": "2026-10-18T15:03:54.817Z",
-  "timestamp": 1792335834817,
+  "updated_at": "2026-10-18T15:04:24.817Z",
+  "timestamp": 1792335864817,
   "stats": {
     "total_stocks": 266,
-    "total_volume": 1315.73,
-    "total_trades": 7,
+    "total_volume": 2855.45,
+    "total_trades": 8,
     "total_users": 3,
-    "market_cap": 1168.3,
+    "market_cap": 3293.03,
     "top_gainers": [
       {
         "name": "✨ Mystic ✨",
-        "price": 109.98,
+        "price": 140.77,
         "prev_price": 102.99,
-        "change_pct": 6.79,
-        "volume": 5,
-        "total_shares": 5,
+        "change_pct": 36.68,
+        "volume": 19,
+        "total_shares": 19,
         "history": [
           {
             "price": 100,
@@ -1037,9 +1037,43 @@
         ]
       }
     ],
-    "last_updated": "2026-10-18T15:03:54.817Z"
+    "last_updated": "2026-10-18T15:04:24.817Z"
   },
   "stocks": [
+    {
+      "name": "✨ Mystic ✨",
+      "price": 140.77,
+      "prev_price": 102.99,
+      "change_pct": 36.68,
+      "volume": 19,
+      "total_shares": 19,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792335566518
+        },
+        {
+          "price": 100.49,
+          "time": 1792335566531
+        },
+        {
+          "price": 99.33,
+          "time": 1792335626568
+        },
+        {
+          "price": 99.96,
+          "time": 1792335686228
+        },
+        {
+          "price": 100.97,
+          "time": 1792335747156
+        },
+        {
+          "price": 101.83,
+          "time": 1792335806408
+        }
+      ]
+    },
     {
       "name": "Wealth",
       "price": 124.5,
@@ -2027,40 +2061,6 @@
         {
           "price": 110.27,
           "time": 1792335806407
-        }
-      ]
-    },
-    {
-      "name": "✨ Mystic ✨",
-      "price": 109.98,
-      "prev_price": 102.99,
-      "change_pct": 6.79,
-      "volume": 5,
-      "total_shares": 5,
-      "history": [
-        {
-          "price": 100,
-          "time": 1792335566518
-        },
-        {
-          "price": 100.49,
-          "time": 1792335566531
-        },
-        {
-          "price": 99.33,
-          "time": 1792335626568
-        },
-        {
-          "price": 99.96,
-          "time": 1792335686228
-        },
-        {
-          "price": 100.97,
-          "time": 1792335747156
-        },
-        {
-          "price": 101.83,
-          "time": 1792335806408
         }
       ]
     },
@@ -29796,6 +29796,15 @@
   "transactions": [
     {
       "type": "buy",
+      "username": "honoredone",
+      "stock": "honoredone",
+      "shares": 14,
+      "price": 109.98,
+      "total": 1539.72,
+      "time": 1792335843047
+    },
+    {
+      "type": "buy",
       "username": "lemon",
       "stock": "honoredone",
       "shares": 4,
@@ -29861,17 +29870,17 @@
   "leaderboard": [
     {
       "rank": 1,
-      "username": "lemon",
-      "balance": 9508.12,
-      "portfolio_value": 1058.32,
-      "total_value": 10566.44
+      "username": "honoredone",
+      "balance": 8859.31,
+      "portfolio_value": 2111.55,
+      "total_value": 10970.86
     },
     {
       "rank": 2,
-      "username": "honoredone",
-      "balance": 10399.03,
-      "portfolio_value": 109.98,
-      "total_value": 10509.01
+      "username": "lemon",
+      "balance": 9508.12,
+      "portfolio_value": 1181.48,
+      "total_value": 10689.6
     },
     {
       "rank": 3,
