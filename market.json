@@ -1,14 +1,14 @@
 {
   "online": true,
   "bot": "YapperStonks",
-  "updated_at": "2026-10-18T15:09:55.552Z",
-  "timestamp": 1792336195552,
+  "updated_at": "2026-10-18T15:10:25.539Z",
+  "timestamp": 1792336225539,
   "stats": {
     "total_stocks": 266,
-    "total_volume": 9258.6,
-    "total_trades": 12,
+    "total_volume": 9729.58,
+    "total_trades": 13,
     "total_users": 3,
-    "market_cap": 14005.13,
+    "market_cap": 13181.15,
     "top_gainers": [
       {
         "name": "Minecraft",
@@ -683,6 +683,64 @@
     ],
     "top_losers": [
       {
+        "name": "✨ Mystic ✨",
+        "price": 228.43,
+        "prev_price": 235.91,
+        "change_pct": -3.17,
+        "volume": 58,
+        "total_shares": 50,
+        "history": [
+          {
+            "price": 100,
+            "time": 1792335566518
+          },
+          {
+            "price": 100.49,
+            "time": 1792335566531
+          },
+          {
+            "price": 99.33,
+            "time": 1792335626568
+          },
+          {
+            "price": 99.96,
+            "time": 1792335686228
+          },
+          {
+            "price": 100.97,
+            "time": 1792335747156
+          },
+          {
+            "price": 101.83,
+            "time": 1792335806408
+          },
+          {
+            "price": 141.41,
+            "time": 1792335866460
+          },
+          {
+            "price": 141.12,
+            "time": 1792335926188
+          },
+          {
+            "price": 238.36,
+            "time": 1792335986572
+          },
+          {
+            "price": 240.56,
+            "time": 1792336046472
+          },
+          {
+            "price": 243.15,
+            "time": 1792336112898
+          },
+          {
+            "price": 235.49,
+            "time": 1792336178705
+          }
+        ]
+      },
+      {
         "name": "neb",
         "price": 92.97,
         "prev_price": 94.1,
@@ -1201,152 +1259,18 @@
             "time": 1792336178705
           }
         ]
-      },
-      {
-        "name": "‧₊˚🍭>⩊< ᵎᵎ",
-        "price": 111.47,
-        "prev_price": 112.8,
-        "change_pct": -1.18,
-        "volume": 0,
-        "total_shares": 0,
-        "history": [
-          {
-            "price": 100,
-            "time": 1792291459934
-          },
-          {
-            "price": 100,
-            "time": 1792291461100
-          },
-          {
-            "price": 101.3,
-            "time": 1792291780038
-          },
-          {
-            "price": 103.67,
-            "time": 1792293070009
-          },
-          {
-            "price": 105.44,
-            "time": 1792325488265
-          },
-          {
-            "price": 105,
-            "time": 1792333326320
-          },
-          {
-            "price": 105.43,
-            "time": 1792333749362
-          },
-          {
-            "price": 105.52,
-            "time": 1792334049539
-          },
-          {
-            "price": 105.98,
-            "time": 1792334349384
-          },
-          {
-            "price": 107.39,
-            "time": 1792334649440
-          },
-          {
-            "price": 107.25,
-            "time": 1792334966427
-          },
-          {
-            "price": 107.66,
-            "time": 1792335026490
-          },
-          {
-            "price": 107.87,
-            "time": 1792335086373
-          },
-          {
-            "price": 107.38,
-            "time": 1792335146616
-          },
-          {
-            "price": 107.35,
-            "time": 1792335206645
-          },
-          {
-            "price": 107.01,
-            "time": 1792335266420
-          },
-          {
-            "price": 106.05,
-            "time": 1792335343864
-          },
-          {
-            "price": 105.71,
-            "time": 1792335386526
-          },
-          {
-            "price": 105.82,
-            "time": 1792335446632
-          },
-          {
-            "price": 107.01,
-            "time": 1792335506657
-          },
-          {
-            "price": 105.78,
-            "time": 1792335566531
-          },
-          {
-            "price": 106.82,
-            "time": 1792335626568
-          },
-          {
-            "price": 107.2,
-            "time": 1792335686228
-          },
-          {
-            "price": 107.54,
-            "time": 1792335747156
-          },
-          {
-            "price": 108.21,
-            "time": 1792335806407
-          },
-          {
-            "price": 108.79,
-            "time": 1792335866460
-          },
-          {
-            "price": 109.81,
-            "time": 1792335926188
-          },
-          {
-            "price": 110.96,
-            "time": 1792335986572
-          },
-          {
-            "price": 111.91,
-            "time": 1792336046472
-          },
-          {
-            "price": 112.8,
-            "time": 1792336112898
-          },
-          {
-            "price": 111.47,
-            "time": 1792336178705
-          }
-        ]
       }
     ],
-    "last_updated": "2026-10-18T15:09:55.557Z"
+    "last_updated": "2026-10-18T15:10:25.540Z"
   },
   "stocks": [
     {
       "name": "✨ Mystic ✨",
-      "price": 235.49,
+      "price": 228.43,
       "prev_price": 235.91,
-      "change_pct": -0.18,
-      "volume": 56,
-      "total_shares": 52,
+      "change_pct": -3.17,
+      "volume": 58,
+      "total_shares": 50,
       "history": [
         {
           "price": 100,
@@ -36482,6 +36406,15 @@
       "type": "sell",
       "username": "lemon",
       "stock": "honoredone",
+      "shares": 2,
+      "price": 235.49,
+      "total": 470.98,
+      "time": 1792336197162
+    },
+    {
+      "type": "sell",
+      "username": "lemon",
+      "stock": "honoredone",
       "shares": 1,
       "price": 239.5,
       "total": 239.5,
@@ -36592,14 +36525,14 @@
       "rank": 1,
       "username": "honoredone",
       "balance": 2938.81,
-      "portfolio_value": 12913.5,
-      "total_value": 15852.31
+      "portfolio_value": 12560.5,
+      "total_value": 15499.31
     },
     {
       "rank": 2,
       "username": "lemon",
-      "balance": 9990.77,
-      "portfolio_value": 1091.63,
+      "balance": 10461.75,
+      "portfolio_value": 620.65,
       "total_value": 11082.4
     },
     {
