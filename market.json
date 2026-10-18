@@ -1,8 +1,8 @@
 {
-  "online": true,
+  "online": false,
   "bot": "YapperStonks",
-  "updated_at": "2026-10-18T14:48:07.709Z",
-  "timestamp": 1792334887709,
+  "updated_at": "2026-10-18T14:48:12.275Z",
+  "timestamp": 1792334892275,
   "stats": {
     "total_stocks": 262,
     "total_volume": 220.14,
@@ -513,7 +513,7 @@
         ]
       }
     ],
-    "last_updated": "2026-10-18T14:48:07.710Z"
+    "last_updated": "2026-10-18T14:48:12.275Z"
   },
   "stocks": [
     {
