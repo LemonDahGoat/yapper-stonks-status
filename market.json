@@ -1,10 +1,10 @@
 {
   "online": true,
   "bot": "YapperStonks",
-  "updated_at": "2026-10-19T21:51:07.009Z",
-  "timestamp": 1792446667020,
+  "updated_at": "2026-10-19T21:51:37.027Z",
+  "timestamp": 1792446697027,
   "stats": {
-    "total_stocks": 274,
+    "total_stocks": 297,
     "total_volume": 910261.35,
     "total_trades": 52,
     "total_users": 5,
@@ -2033,7 +2033,7 @@
         ]
       }
     ],
-    "last_updated": "2026-10-19T21:51:07.021Z"
+    "last_updated": "2026-10-19T21:51:37.028Z"
   },
   "stocks": [
     {
@@ -13955,7 +13955,7 @@
       ]
     },
     {
-      "name": "1am",
+      "name": "Dingles",
       "price": 106.3,
       "prev_price": 106.91,
       "change_pct": -0.57,
@@ -24565,7 +24565,7 @@
       ]
     },
     {
-      "name": "FwkZPoulet",
+      "name": "Furamona 🐔「FwkZPoulet]",
       "price": 101.12,
       "prev_price": 100.74,
       "change_pct": 0.38,
@@ -27875,6 +27875,328 @@
       ]
     },
     {
+      "name": "Cobalt",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": "Aka",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": "Breeze",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": "Kai2124",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": "Themyst99",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": "CapCut",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": "NAIROT『official』",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": "Granin342",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": "Ash",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": "Yuri the goat 👀",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": "mills",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": "lc",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": "Tristanfrr",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": "Callum",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": ".10...",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": "Jesterr",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": "Osoiris",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668181
+        }
+      ]
+    },
+    {
+      "name": "StrongestinHistory",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668721
+        }
+      ]
+    },
+    {
+      "name": "esscoffier._.",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668721
+        }
+      ]
+    },
+    {
+      "name": "TheSun",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668721
+        }
+      ]
+    },
+    {
+      "name": "user61592dca",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668721
+        }
+      ]
+    },
+    {
+      "name": "tripled",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668721
+        }
+      ]
+    },
+    {
+      "name": "Entity",
+      "price": 100,
+      "prev_price": 100,
+      "change_pct": 0,
+      "volume": 0,
+      "total_shares": 0,
+      "history": [
+        {
+          "price": 100,
+          "time": 1792446668721
+        }
+      ]
+    },
+    {
       "name": "Sjcool23",
       "price": 99.95,
       "prev_price": 99.87,
@@ -30519,7 +30841,7 @@
       ]
     },
     {
-      "name": "👑sap👑",
+      "name": "sap",
       "price": 98.89,
       "prev_price": 97.99,
       "change_pct": 0.92,
@@ -32741,7 +33063,7 @@
       ]
     },
     {
-      "name": "Hansukii1",
+      "name": "ImproperHound",
       "price": 97.94,
       "prev_price": 96.85,
       "change_pct": 1.13,
@@ -51883,7 +52205,7 @@
       ]
     },
     {
-      "name": "laiys",
+      "name": "abby",
       "price": 87.33,
       "prev_price": 87.53,
       "change_pct": -0.23,
